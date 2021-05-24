@@ -1,7 +1,7 @@
 {
-    "name": "IR",
+    "name": "IR_cn",
     "version": "1.0.0",
-    "description": "Extension for micro:bit IR receiver ",
+    "description": "红外遥控器makecode中文模块",
     "license": "MIT",
     "dependencies": {
         "core": "*"
