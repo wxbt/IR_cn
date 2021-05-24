@@ -2,7 +2,7 @@
  * 红外遥控器makecode中文模块
  */
 
-//% color="#DAA520" weight=25  icon="\uf143" block="5 红外遥控"
+//% color="#8EE5EE" weight=25  icon="\uf143" block="5 红外遥控"
 
 namespace IR {
 
